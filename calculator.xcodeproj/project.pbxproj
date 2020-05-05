@@ -15,6 +15,7 @@
 		9E2B6124245F23240017A4D3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9E2B6122245F23240017A4D3 /* LaunchScreen.storyboard */; };
 		9E2B612F245F23240017A4D3 /* calculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E2B612E245F23240017A4D3 /* calculatorTests.swift */; };
 		9E2B613A245F23240017A4D3 /* calculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E2B6139245F23240017A4D3 /* calculatorUITests.swift */; };
+		9E2B6148245F349D0017A4D3 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E2B6147245F349D0017A4D3 /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		9E2B6135245F23240017A4D3 /* calculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = calculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9E2B6139245F23240017A4D3 /* calculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = calculatorUITests.swift; sourceTree = "<group>"; };
 		9E2B613B245F23240017A4D3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9E2B6147245F349D0017A4D3 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				9E2B6120245F23240017A4D3 /* Assets.xcassets */,
 				9E2B6122245F23240017A4D3 /* LaunchScreen.storyboard */,
 				9E2B6125245F23240017A4D3 /* Info.plist */,
+				9E2B6147245F349D0017A4D3 /* Model.swift */,
 			);
 			path = calculator;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 				9E2B611C245F231D0017A4D3 /* ViewController.swift in Sources */,
 				9E2B6118245F231D0017A4D3 /* AppDelegate.swift in Sources */,
 				9E2B611A245F231D0017A4D3 /* SceneDelegate.swift in Sources */,
+				9E2B6148245F349D0017A4D3 /* Model.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
